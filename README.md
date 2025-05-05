@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on 离线/实时项目
 - 📫 How to reach me jrbb3946@outlook.com
 - 😄 Pronouns: Sir/Bro
-- ⚡ Fun fact: I once debugged a server while skydiving!
-![](https://myoctocat.com/assets/images/base-octocat.svg)  
+- ⚡ Fun fact: I once debugged a server while skydiving!<br/>
+![](https://myoctocat.com/assets/images/base-octocat.svg)
 
 <!---
 QiYuXuanAng5/QiYuXuanAng5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
